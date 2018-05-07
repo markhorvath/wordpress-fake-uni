@@ -15,8 +15,7 @@
             <nav class="nav-list">
 <!--                 <?php
                     // wp_nav_menu(array(
-                    //     'theme_location' => 'footerLocationOne'
-                    ));
+                    //     'theme_location' => 'footerLocationOne'));
                 ?> -->
               <ul>
                 <li><a href="<?php echo site_url('/about-us') ?>">About Us</a></li>
@@ -32,8 +31,7 @@
             <nav class="nav-list">
 <!--                 <?php
                     // wp_nav_menu(array(
-                    //     'theme_location' => 'footerLocationTwo'
-                    ));
+                    //     'theme_location' => 'footerLocationTwo'));
                 ?> -->
                <ul>
                 <li><a href="#">Legal</a></li>
